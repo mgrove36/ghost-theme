@@ -1,48 +1,6 @@
-<p align="center">
-  <a href="https://godofredo.ninja/ghost-theme/simply/">
-    <img src="https://user-images.githubusercontent.com/10253167/103450308-a2757c00-4c82-11eb-8bc3-29b09520fc58.png" width="150px" alt="Simply free theme for Ghost" />
-  </a>
-</p>
+# Simply
 
-<p align="center">
-    <a href="https://godofredo.ninja/ghost-theme/simply/introduction">Docs</a>
-    ·
-    <a href="https://godofredo.ninja/ghost-theme/showcase/">Showcase</a>
-    ·
-    <a href="https://github.com/godofredoninja/simply/graphs/contributors">Contributing</a>
-    ·
-    <a href="https://www.paypal.me/godofredoninja">PayPal</a>
-    ·
-    <a href="https://twitter.com/godofredoninja">Twitter</a>
-    <br /><br />
-    <a href="https://github.com/TryGhost/Ghost">
-        <img src="https://img.shields.io/badge/Ghost-4.x-brightgreen.svg" alt="Ghost version" />
-    </a>
-    <a href="https://www.paypal.me/godofredoninja">
-        <img src="https://img.shields.io/badge/donate-paypal-blue.svg" alt="Donate" />
-    </a>
-    <a href="https://opencollective.com/simply">
-        <img src="https://opencollective.com/simply/tiers/badge.svg" alt="opencollective" />
-    </a>
-</p>
-
-<p align="center">
-    Hello :sunglasses:
-    <br />
-    I created this theme for <a href="https://github.com/tryghost/ghost/">Ghost</a> with inspiration from <a href="https://medium.com/">Medium</a>.
-    <br />
-    It is available for free so you can use on your site.
-</p>
-
-<p align="center">
-    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y7UB5Q8GVN3HN&source=url">
-        <img src="https://user-images.githubusercontent.com/10253167/103444000-877b1b80-4c32-11eb-8377-7bedd46dbdf8.gif" alt="donate" />
-    </a>
-</p>
-
-&nbsp;
-
-[![Simply free theme for ghost](https://user-images.githubusercontent.com/10253167/162076408-0356f347-6d0b-47ad-a640-e8ee7a2494af.jpg)](https://godofredo.ninja/ghost-theme/simply/)
+A [Ghost](https://github.com/tryghost/ghost/) theme that takes inspiration from [Medium](https://medium.com/).
 
 ## Featured
 
@@ -166,47 +124,6 @@ I greatly appreciate any help in maintaining to keep the documentation up to dat
 
 If you are interested in collaborating with Simply, take a look at the [Contributing Guide](https://github.com/godofredoninja/simply/blob/master/CONTRIBUTING.md).
 
-### Code Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](https://github.com/godofredoninja/simply/blob/master/CONTRIBUTING.md)].
-
-[![Simply Contributors](https://opencollective.com/simply/contributors.svg?width=890&button=false)](https://github.com/godofredoninja/simply/graphs/contributors)
-
-### Financial Contributors
-
-First I want to say thank you with all my heart and a million more Thank you. The [donation](https://www.paypal.me/godofredoninja) you have made has motivated me to continue working with the improvement and updating the theme.
-
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/simply/contribute)]
-
-- [Open Collective](https://opencollective.com/simply/contribute)
-- [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y7UB5Q8GVN3HN&source=url)
-- Bitcoin: **3QF5D9QyV9YQdPJVu2HLN8fkdWVbmezd5J**
-- Ethereum: **0x503bAA618d29774f03c7053218999Ad567a9fc71**
-
-[![Individuals Financial](https://user-images.githubusercontent.com/10253167/103444000-877b1b80-4c32-11eb-8377-7bedd46dbdf8.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y7UB5Q8GVN3HN&source=url)
-
-- [CMS Critic](http://www.cmscritic.com/) :star: :star: :star: :star:
-- [A Boundless World](https://www.aboundlessworld.com/) :star: :star:
-- [Dana Ross](https://vaalin.com/)
-- [Kip Ivan](https://github.com/Ingles-con-Kip)
-- [Wenjer India](http://qilinlab.com)
-- Etienne Triaud :star: :star:
-- Greg Rapp
-- Yannick Kordel
-- Bruno Brito Semedo
-- Ivan Rodriguez Segura
-- Rodrigo Franken Dutra
-- Diego Alcantara Zweifel
-- Andrew Wagner
-
-[![Individuals Financial](https://opencollective.com/simply/individuals.svg?width=890)](https://opencollective.com/simply)
-
-## Sponsored
-
-- [Digital Ocean](https://m.do.co/c/710a27a3b3de) using my [referral link]((https://m.do.co/c/710a27a3b3de)) and you will get free a **$100 in credit over 60 days**
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=710a27a3b3de&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
 ## Credits
 
 - [Hodor AMP](https://github.com/godofredoninja/Hodor-AMP-Ghost)
@@ -224,3 +141,5 @@ Become a financial contributor and help us sustain our community. [[Contribute](
 ## Copyright & License
 
 Copyright (c) 2017-2022 GodoFredo - Released under the [GPLv3 license](LICENSE)
+
+Changes made are Copyright (c) Matthew Grove 2022 - Documented in repository commits by mgrove36.
