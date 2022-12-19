@@ -57,6 +57,10 @@ routes:
     data:
       post: page.medium-with-sidebar
     limit: 14
+    
+  /:
+    template: godo-home-personal
+    data: page.home-personal
 
 collections:
   # PortFolio
@@ -81,11 +85,16 @@ collections:
     filter: 'tag:[hash-kusi-doc]'
     template: godo-home-kusi-doc
 
+  # Thoughts (blog)
+  /thoughts/:
+    permalink: /thoughts/{slug}/
+    filter: 'tag:-[hash-portfolio,hash-kusi-doc,hash-podcast]'
+    template: index
+    
   # Default
   /:
     permalink: /{slug}/
-    filter: 'tag:-[hash-portfolio,hash-kusi-doc,hash-podcast]'
-    template: index
+    template: godo-home-personal
 
 taxonomies:
   tag: /tag/{slug}/
