@@ -157,7 +157,7 @@
       },
       "newsletter_text": {
         "type": "text",
-        "default": "Sign up for more like this",
+        "default": "Subscribe for more like this",
         "group": "post"
       }
     }

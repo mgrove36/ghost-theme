@@ -57,13 +57,16 @@ routes:
     data:
       post: page.medium-with-sidebar
     limit: 14
+
+  /thoughts/:
+    template: index
     
   /:
     template: godo-home-personal
     data: page.home-personal
 
 collections:
-  # PortFolio
+  # Portfolio
   /portafolio/:
     permalink: /portafolio/{slug}/
     filter: 'tag:[hash-portfolio]'
