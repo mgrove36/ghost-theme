@@ -1,0 +1,27 @@
+{{!-- Layout --}}
+{{!< default}}
+
+{{#post}}
+
+{{!-- Class for <body> --}}
+{{#contentFor "special_body_class"}}is-article is-article-full{{/contentFor}}
+
+<article class="post py-vmin8 relative">
+    <div class="relative overflow-hidden">
+        <div class="mx-auto container relative flex justify-between flex-col items-center py-12 md:py-vw4 z-3 md:flex-row md:px-5 kg-width-full kg-header-card kg-size-small"
+            {{#if @custom.publication_cover_color}}style="color:{{@custom.publication_cover_color}}"{{/if}}>
+            <h1 class="text-7xl lg:text-8xl kg-header-card-header">{{title}}</h1>
+            {{#if @custom_excerpt}}<p class="mt-6 text-22 opacity-80">
+                {{@custom_excerpt}}</p>{{/if}}
+        </div>
+    
+        {{!-- Featured Media - partials/components/media-cover.hbs --}}
+        {{> "components/media-cover" background=feature_image alt_title=title}}
+    </div>
+
+    <section id="post-body" class="post-body godo-canvas mx-auto relative {{#match @custom.post_font "=" "font-serif"}}font-serif{{else}}font-sans{{/match}}">
+        {{content}}
+    </section>
+</article>
+
+{{/post}}
