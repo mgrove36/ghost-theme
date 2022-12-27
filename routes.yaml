@@ -70,7 +70,7 @@ collections:
   /portfolio/:
     permalink: /portfolio/{slug}/
     filter: 'tag:[hash-portfolio]'
-    data: page.porftfolio
+    data: page.portfolio
     template: godo-template-portfolio
     limit: all
 
