@@ -67,8 +67,8 @@ routes:
 
 collections:
   # Portfolio
-  /portafolio/:
-    permalink: /portafolio/{slug}/
+  /portfolio/:
+    permalink: /portfolio/{slug}/
     filter: 'tag:[hash-portfolio]'
     data: page.porftfolio
     template: godo-template-portfolio
